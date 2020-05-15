@@ -3,7 +3,7 @@
 // Licensed under the MIT License 
 //
 
-//this is our new code
+
 /**
  * REST API that exposes RoomAnalytics
  */
