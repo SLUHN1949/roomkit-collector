@@ -1,9 +1,18 @@
 [
     {
         "id": "Workbench1",
-        "location": "Workshop 1",
-        "ipAddress" : "10.228.150.131",
-        "username" : "sales",
-        "password" : "colab"
+        "location": "",
+        "ipAddress" : "",
+        "username" : "",
+        "password" : "",
+        "capacity" : 15
+    },
+    {
+        "id": "Workbench2",
+        "location": "",
+        "ipAddress" : "",
+        "username" : "",       
+        "password" : "",
+        "capacity" : 10
     }
-] 
+]

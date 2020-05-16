@@ -6,7 +6,8 @@
   "dependencies": {
     "debug": "^4.1.1",
     "express": "^4.17.1",
-    "jsxapi": "^5.0.1"
+    "jsxapi": "^5.0.1",
+    "mongodb": "^3.5.7"
   },
   "devDependencies": {},
   "scripts": {
